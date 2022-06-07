@@ -7,5 +7,5 @@ Team and if they are in line with the product strategy, they will be implemented
 
 ### How to create a ticket?
 
-![alt text]
+![alt text](https://github.com/WiolaLesniak/job_assignment/blob/main/Picture1.jpg)
 
