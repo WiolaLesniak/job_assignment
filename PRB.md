@@ -7,6 +7,6 @@ Team and if they are in line with the product strategy, they will be implemented
 
 ### How to create a ticket?
 
-![alt text](https://github.com/WiolaLesniak/job_assignement/PRB_screen_1.PNG)
+![alt text](https://github.com/WiolaLesniak/job_assignement/blob/PRB_screen_1.PNG)
 
 job_assignment/PRB_screen_1.PNG
