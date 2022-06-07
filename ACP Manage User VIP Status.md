@@ -24,8 +24,11 @@ Please advise the reason of changing VIP status*
 The pop-up includes two buttons – **[Confirm]** and **[Cancel]**. Clicking the **[Confirm]** button saves provided reason in the VIP status change history and Action Log: 
 
 •	Date [DD/MM/YYYY]
+
 •	Administrator [admin username]
+
 •	Module [VIP status activation / VIP status deactivation]
+
 •	Content [Provided reason]
 
 By default, the ACP Admin has access to a view of the VIP status.
