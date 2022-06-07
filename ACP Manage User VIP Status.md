@@ -40,7 +40,7 @@ A Mining City Admin sees the history of VIP status changes so that (s)he can ver
 Addition of VIP status change history that can be found in the Basic Information located in the ACP Manage User. 
 The history may be checked by clicking the **[Show history]** button, which is available to all admins with access to ACP Manage User.
 
-![alt text](https://github.com/WiolaLesniak/job_assignment/blob/main/ACP_4.png)
+![alt text](https://github.com/WiolaLesniak/job_assignment/blob/main/ACP_3v.png)
 
 After clicking **[Show history]**, the window VIP status change history with a user's VIP status change history displays. The window presents a table with the following information:  
 
