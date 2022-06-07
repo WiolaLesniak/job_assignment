@@ -6,6 +6,7 @@ Users and company employees. Submitted requests are going to be scrutinized by t
 Team and if they are in line with the product strategy, they will be implemented.
 
 ### How to create a ticket?
-
+1.	In JIRA, click on **Create**.
+2.	Select the project: **Mining City Product Backlog Request (PBR)**.
 ![alt text](https://github.com/WiolaLesniak/job_assignment/blob/main/Picture1.jpg)
 
