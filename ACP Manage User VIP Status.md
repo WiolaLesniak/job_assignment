@@ -41,21 +41,30 @@ The history may be checked by clicking the **[Show history]** button, which is a
 ![alt text](https://github.com/WiolaLesniak/job_assignment/blob/main/ACP_4.png)
 
 After clicking **[Show history]**, the window VIP status change history with a user's VIP status change history displays. The window presents a table with the following information:  
+
 •	Changed on [DD.MM.YYYY HH:MM:SS] 
+
 •	Changed by ADMIN [username] 
+
 •	Reason [reason provided by admin during change VIP status process]   
 
 Popup has 'OK' and 'X' buttons – both closes the window.
 All entries regarding VIP status change are shown in 'VIP status change history' and 'Action log'. Action log entry includes: 
+
 •	Date [DD/MM/YYYY] 
+
 •	Administrator [admin username] 
+
 •	Module [VIP status activation / VIP status deactivation] 
+
 •	Content [reason provided by admin during change VIP status process] 
 
 ## VIP status granting permission 
 
 A Mining City Admin has a new permission created so that (s)he can grant VIP status to Mining City users.
+
 **Details:**
+
 COD requires to have a new permission created to grant or cancel VIP status to MC clients. This should be a separate permission that should not be given by default to all MC Admins. 
  
 
