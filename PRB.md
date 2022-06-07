@@ -10,3 +10,5 @@ Team and if they are in line with the product strategy, they will be implemented
 ![alt text](https://github.com/WiolaLesniak/job_assignement/blob/PRB_screen_1.PNG)
 
 job_assignment/PRB_screen_1.PNG
+
+![alt text](http://url/to/PRB_screen_1.PNG)
