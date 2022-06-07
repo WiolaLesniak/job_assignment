@@ -5,7 +5,6 @@ A Mining City Admin can grant a VIP status to a user so that the support team ca
 which user should be treated with priority.
 
 ![alt text](https://github.com/WiolaLesniak/job_assignment/blob/main/ACP_1.png)
-![alt text](https://github.com/WiolaLesniak/job_assignment/blob/main/ACP_2.png)
 
 ### Details
 An Admin can add a VIP status or cancel this status in the **Manage User** tab by clicking the **[Activate/Deactivate]** button. 
