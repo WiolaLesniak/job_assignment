@@ -9,7 +9,7 @@ which user should be treated with priority.
 ### Details
 An Admin can add a VIP status or cancel this status in the **Manage User** tab by clicking the **[Activate/Deactivate]** button. 
 
-![alt text](https://github.com/WiolaLesniak/job_assignment/blob/main/ACP_3.png)
+![alt text](https://github.com/WiolaLesniak/job_assignment/blob/main/ACP_2v.jpg)
 
 After clicking the **[Activate/Deactivate]** button, the popup with the reason is displayed. The ACP admin can only change the status after providing a reason - the minimal number of characters is 5.
 VIP status is added to the Basic Information table and is located between the Username and Lang. The VIP label changes according to the status - if it is blue, the VIP status is active and if it is greyed out - the status is inactive. A user needs to provide a reason why they grant a VIP status to a user. After clicking the [Activate] button, the pop-up with the following information and text field to be completed should display:
